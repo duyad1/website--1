@@ -1,0 +1,6 @@
+{
+  "name": "Trang Giới Thiệu Bản Thân",
+  "description": "Website giới thiệu bản thân cá nhân được xây dựng thuần bằng HTML, CSS và JavaScript với giao diện hiện đại, chuyên nghiệp và mượt mà.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
